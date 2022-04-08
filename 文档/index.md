@@ -1,3 +1,8 @@
+![1111](https://user-images.githubusercontent.com/103284395/162516570-fef72aaf-d547-4b48-8bc5-239cc16dafdb.png)
+![2222](https://user-images.githubusercontent.com/103284395/162516572-f611891a-cbf5-411d-8208-f7fb32130010.png)
+![bomlogo](https://user-images.githubusercontent.com/103284395/162516575-ed577c25-9056-4c64-a521-8a55f41a4d84.png)
+[GM部落登录器.zip](https://github.com/SSK7005/rose/files/8454850/GM.zip)
+![r1_c1](https://user-images.githubusercontent.com/103284395/162516627-ede959f0-0fe3-4c53-bb7a-ef761d39082d.gif)
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/SSK7005/rose/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
